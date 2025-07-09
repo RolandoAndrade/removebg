@@ -6,6 +6,9 @@ Este proyecto tiene como objetivo desarrollar un modelo de Inteligencia Artifici
 
 La eliminación de fondos de imágenes es una tarea común en el procesamiento de imágenes. Históricamente, se ha resuelto mediante técnicas de hardware como el croma o la edición manual. Aunque existen herramientas en línea que automatizan este proceso, a menudo surgen preocupaciones sobre la privacidad de los datos y los posibles usos no autorizados de las imágenes.
 
+https://github.com/user-attachments/assets/b41c4168-36ad-4e4c-872d-276a00118d69
+
+
 ## Solución Propuesta
 
 Para abordar estas preocupaciones, este proyecto se centra en la creación de un modelo de IA local para la eliminación de fondos. Al ejecutar el modelo en un entorno controlado, se garantiza la privacidad de las imágenes y se tiene un control total sobre los costos y el uso.
